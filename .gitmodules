@@ -1,4 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cogdisreslab/cogdisreslab.r-universe.dev
 	branch = HEAD
+[submodule "BioPathNet"]
+	path = BioPathNet
+	url = https://github.com/CogDisResLab/BioPathNet
+[submodule "KINNET"]
+	path = KINNET
+	url = https://github.com/CogDisResLab/KINNET
+[submodule "KRSA"]
+	path = KRSA
+	url = https://github.com/CogDisResLab/KRSA
+[submodule "KinaseTauScore"]
+	path = KinaseTauScore
+	url = https://github.com/CogDisResLab/KinaseTauScore
+[submodule "creedenzymatic"]
+	path = creedenzymatic
+	url = https://github.com/CogDisResLab/creedenzymatic
+[submodule "drugfindR"]
+	path = drugfindR
+	url = https://github.com/CogDisResLab/drugfindR
