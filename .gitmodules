@@ -14,6 +14,15 @@
 [submodule "KinaseTauScore"]
 	path = KinaseTauScore
 	url = https://github.com/CogDisResLab/KinaseTauScore
+[submodule "Kinograte"]
+	path = Kinograte
+	url = https://github.com/CogDisResLab/kinograte
+[submodule "PAVER"]
+	path = PAVER
+	url = https://github.com/CogDisResLab/PAVER
+[submodule "PCSF"]
+	path = PCSF
+	url = https://github.com/CogDisResLab/PCSF
 [submodule "creedenzymatic"]
 	path = creedenzymatic
 	url = https://github.com/CogDisResLab/creedenzymatic
