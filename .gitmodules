@@ -14,9 +14,6 @@
 [submodule "KinaseTauScore"]
 	path = KinaseTauScore
 	url = https://github.com/CogDisResLab/KinaseTauScore
-[submodule "Kinograte"]
-	path = Kinograte
-	url = https://github.com/CogDisResLab/kinograte
 [submodule "PAVER"]
 	path = PAVER
 	url = https://github.com/CogDisResLab/PAVER
@@ -29,3 +26,6 @@
 [submodule "drugfindR"]
 	path = drugfindR
 	url = https://github.com/CogDisResLab/drugfindR
+[submodule "kinograte"]
+	path = kinograte
+	url = https://github.com/CogDisResLab/kinograte
