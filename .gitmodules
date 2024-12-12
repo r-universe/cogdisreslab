@@ -26,6 +26,9 @@
 [submodule "drugfindR"]
 	path = drugfindR
 	url = https://github.com/CogDisResLab/drugfindR
+[submodule "enrichR"]
+	path = enrichR
+	url = https://github.com/CogDisResLab/enrichR
 [submodule "kinograte"]
 	path = kinograte
 	url = https://github.com/CogDisResLab/kinograte
